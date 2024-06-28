@@ -4,9 +4,8 @@ My name is Benny 🎉 and I am a Computer Engineer 👨‍💻 by education, Sof
 
 I got into tech and science from an anime scene, where a computer engineer, was coding and repairing a time machine ⏳ in C and doing some robotics 🤖 back in 2018.
 
+Looking forward to entering on the Startup Space.
 
-
-Yeah, you're right, I started with Python, not C 😅 on the SoloLearn app.
 
 - 🔭 I’m currently working on integrating Python into robotics
 - 🌱 I’m currently learning Java for app development
