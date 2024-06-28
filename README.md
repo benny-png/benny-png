@@ -2,7 +2,7 @@
 
 My name is Benny 🎉 and I am a Computer Engineer 👨‍💻 by education, Software Developer by passion. 
 
-I got into tech and science from an anime scene, where a computer engineer, was coding and repairing a time machine in C and some robotics back in 2018.
+I got into tech and science from an anime scene, where a computer engineer, was coding and repairing a time machine ⏳ in C and doing some robotics 🤖 back in 2018.
 
 
 Yeah, you're right, I started with Python, not C 😅 on the SoloLearn app.
