@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-My name is Benny and I am a Computer Engineer 👨‍💻 by education, Software Developer by passion. I got into tech and science from an anime scene in Dragon Ball Super where Bulma, a computer engineer, was coding and repairing a time machine in C and some robotics back in 2018.
+My name is Benny and I am a Computer Engineer 👨‍💻 by education, Software Developer by passion. 
+I got into tech and science from an anime scene in Dragon Ball Super where Bulma, a computer engineer, was coding and repairing a time machine in C and some robotics back in 2018.
+
 Yeah you're right of course I started with Python not C 😅 on sololearn app.
+
 💡 Currently I'm Always learning, always creating, always improving!
 
 - 🔭 I’m currently working on intergrating python into robotics
