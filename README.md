@@ -15,6 +15,6 @@ Looking forward to entering on the Startup Space.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I commit with spaces... and got rejected by all the Ivies
   
-
+I'm an Explorer 🙂...
 💡 Currently, I'm always learning, always creating, always improving!
 
