@@ -23,7 +23,10 @@ I'm an Explorer 🙂...
 <br />
 <br />
 
+<p align="center">
+  <strong>ME AT UDSM 3D ROBOTICS COMMUNITY (with a multimeter 😁)</strong>
+</p>
 
-##                                  ME AT UDSM 3D ROBOTICS COMMUNITY (with a multimeter 😁)
-
-![ME AT UDSM ROBOTICS COMMUNITY](https://github.com/benny-png/benny-png/blob/main/WhatsApp%20Image%202024-06-25%20at%2011.05.07%20PM.jpeg)
+<p align="center">
+  <img src="https://github.com/benny-png/benny-png/blob/main/WhatsApp%20Image%202024-06-25%20at%2011.05.07%20PM.jpeg" alt="ME AT UDSM ROBOTICS COMMUNITY">
+</p>
