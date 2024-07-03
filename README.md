@@ -17,10 +17,7 @@ Looking forward to entering on the Startup Space.
   
 I'm an Explorer 🙂...
 💡 Currently, I'm always learning, always creating, always improving!
-
 <br />
-
-
 ##                                  ME AT UDSM 3D ROBOTICS COMMUNITY (with a multimeter 😁)
 
 ![ME AT UDSM ROBOTICS COMMUNITY](https://github.com/benny-png/benny-png/blob/main/WhatsApp%20Image%202024-06-25%20at%2011.05.07%20PM.jpeg)
