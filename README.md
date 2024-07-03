@@ -24,7 +24,7 @@ I'm an Explorer 🙂...
 <br />
 <br />
 
-<p align="center">
+<p align="center" style="font-size: 24px;">
   <strong>ME AT UDSM 3D ROBOTICS COMMUNITY (with a multimeter 😁)</strong>
 </p>
 
