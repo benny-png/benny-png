@@ -4,9 +4,10 @@ My name is Benjamin 🎉 and I am a Computer Engineer 👨‍💻 by education, 
 
 I got into tech and science from an anime scene, where a computer engineer, was coding and repairing a time machine ⏳ in C and doing some robotics 🤖 back in 2018.
 
+<br />
+
 Looking forward to entering on the Startup Space.
 
-<br />
 
 - 🔭 I’m currently working on integrating Python into robotics
 - 🌱 I’m currently learning Java for app development
