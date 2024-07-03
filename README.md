@@ -7,8 +7,8 @@ I got into tech and science from an anime scene, where a computer engineer, was 
 <br />
 
 Looking forward to entering on the Startup Space.
-
 <br />
+
 - 🔭 I’m currently working on integrating Python into robotics
 - 🌱 I’m currently learning Java for app development
 - 👯 I’m looking to collaborate on ML projects
