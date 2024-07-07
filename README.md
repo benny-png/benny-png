@@ -44,6 +44,9 @@ I'm an Explorer 🙂...
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
+&nbsp;
+   <a style="padding-right:8px;" href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
+ </a>
 
   &nbsp;
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -64,15 +67,15 @@ I'm an Explorer 🙂...
     <a href="https://www.arduino.cc/"><img src="https://img.icons8.com/color/48/fff/arduino.png"/></a>
     <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/fff/git.png"/></a>
     <a href="https://www.shellscript.sh/"><img src="https://img.icons8.com/color/48/000000/console.png"/></a>
-    &nbsp;
+
   <a href="https://www.qt.io/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
   </a>
-  &nbsp;
+
  <a style="padding-right:8px;" href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
  </a>
 
-  &nbsp;
+
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
