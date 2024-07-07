@@ -34,9 +34,9 @@ Looking forward to entering the Startup Space.
 I'm an Explorer 🙂...
 💡 Currently, I'm always learning, always creating, always improving!
 
-## Languages
+## Languages 
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -45,40 +45,80 @@ I'm an Explorer 🙂...
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   &nbsp;
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="40" height="40"/>
+  </a>
+  &nbsp;
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-  &nbsp;
-  <a href="https://www.cplusplus.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  </a>
 </p>
 
-## Frameworks and Tools
+## Frameworks & Tools
 
-<p align="left">
-  <a href="https://www.qt.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react"/>
   </a>
   &nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"/>
   </a>
   &nbsp;
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure"/>
   </a>
   &nbsp;
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws"/>
+  </a>
+  &nbsp;
+  <a href="https://console.cloud.google.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="google cloud"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="mysql"/>
   </a>
   &nbsp;
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/>
   </a>
   &nbsp;
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.icons8.com/color/48/fff/arduino.png" alt="arduino"/>
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/fff/git.png" alt="git"/>
+  </a>
+  &nbsp;
+  <a href="https://www.shellscript.sh/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/console.png" alt="shell script"/>
+  </a>
+  &nbsp;
+  <a href="https://www.qt.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+  </a>
+</p>
+
+## AI Tools I Use
+
+<p align="center">
   <a href="https://ultralytics.com/yolov5" target="_blank">
-    <img src="https://github.com/ultralytics/yolov5/blob/master/data/images/logo.png?raw=true" alt="yolov5" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="yolo"/>
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="hugging face"/>
+  </a>
+  &nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow"/>
+  </a>
+  &nbsp;
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="pytorch"/>
   </a>
 </p>
 
@@ -96,13 +136,25 @@ I'm an Explorer 🙂...
   <img src="https://github.com/benny-png/benny-png/blob/main/WhatsApp%20Image%202024-06-25%20at%2011.05.07%20PM.jpeg" alt="ME AT UDSM ROBOTICS COMMUNITY">
 </p>
 
-## Connect with Me
+## Connect with me
 
 <p align="center">
-  <a href="https://www.instagram.com/_b.e.nn.y_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://api.whatsapp.com/send/?phone=255627156369&text&app_absent=0" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"/>
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=255627156369" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  <a href="https://www.linkedin.com/in/benjamin-maziku-mashimba-553b06247/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/maziku_ben" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/_b.e.nn.y_/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="https://join.slack.com/t/frontendmentor/shared_invite/zt-12n9c8i9i-k0VAj7WkurceDTMppk1hAw" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack"/>
   </a>
 </p>
