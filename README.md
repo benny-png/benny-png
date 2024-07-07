@@ -71,7 +71,6 @@ I'm an Explorer 🙂...
 </p>
 
 <br />
-<br />
 
 ## My Github Stats
 
