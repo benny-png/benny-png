@@ -70,12 +70,8 @@ I'm an Explorer 🙂...
   </a>
 </p>
 
-
 <br />
 <br />
-<br />
-
-
 
 ## My Github Stats
 
