@@ -18,14 +18,13 @@
 
 # Hi there 👋
 
-My name is Benjamin 🎉 and I am a Computer Engineer 👨‍💻 by education, Software Developer by passion. 
+My name is Benjamin 🎉 and I am a Computer Engineer 👨‍💻 by education, Software Developer by passion.
 
-
-I got into tech and science from an anime scene, where a computer engineer, was coding and repairing a time machine ⏳ in C and doing some robotics 🤖 back in 2018.
+I got into tech and science from an anime scene, where a computer engineer was coding and repairing a time machine ⏳ in C and doing some robotics 🤖 back in 2018.
 
 <br />
 
-Looking forward to entering on the Startup Space.
+Looking forward to entering the Startup Space.
 <br />
 
 - 🔭 I’m currently working on integrating Python into robotics
@@ -41,7 +40,6 @@ I'm an Explorer 🙂...
 <br />
 <br />
 <br />
-
 
 ## Languages and Tools
 <p align="left">
@@ -87,3 +85,15 @@ I'm an Explorer 🙂...
 <p align="center">
   <img src="https://github.com/benny-png/benny-png/blob/main/WhatsApp%20Image%202024-06-25%20at%2011.05.07%20PM.jpeg" alt="ME AT UDSM ROBOTICS COMMUNITY">
 </p>
+
+## YOLO Segmentation
+
+### Output Video
+![OUTPUT GIF VIDEO](https://github.com/benny-png/YOLO_SEGMENTATION/blob/main/output%20(1).gif)
+
+Source: [Man walk cycle happy walking side view](https://www.youtube.com/watch?v=Mol0lrRBy3g&pp=ygUxTWFuIHdhbGsgY3ljbGUgaGFwcHkgd2Fsa2luZyBzaWRlIHZpZXcgcmVmZXJlbmNlIA%3D%3D)
+
+### Input Video
+![INPUT GIF VIDEO](https://github.com/benny-png/YOLO_SEGMENTATION/blob/main/yt1s%20(1).gif)
+
+Source: [Man walk cycle happy walking side view](https://www.youtube.com/watch?v=Mol0lrRBy3g&pp=ygUxTWFuIHdhbGsgY3ljbGUgaGFwcHkgd2Fsa2luZyBzaWRlIHZpZXcgcmVmZXJlbmNlIA%3D%3D)
