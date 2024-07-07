@@ -34,11 +34,9 @@ Looking forward to entering the Startup Space.
 I'm an Explorer 🙂...
 💡 Currently, I'm always learning, always creating, always improving!
 
-## Languages and Tools
+## Languages
 
-### Programming Languages
-
-<p align="center">
+<p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -51,14 +49,14 @@ I'm an Explorer 🙂...
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://www.javascript.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
   </a>
 </p>
 
-### Frameworks and Libraries
+## Frameworks and Tools
 
-<p align="center">
+<p align="left">
   <a href="https://www.qt.io/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
   </a>
@@ -74,11 +72,7 @@ I'm an Explorer 🙂...
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
   </a>
-</p>
-
-### Tools and Platforms
-
-<p align="center">
+  &nbsp;
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
