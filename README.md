@@ -57,12 +57,12 @@ I'm an Explorer 🙂...
 ## Frameworks & Tools
 
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react"/>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/huggingface.svg" alt="hugging face" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"/>
+   <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow"/>
   </a>
   &nbsp;
   <a href="https://azure.microsoft.com/en-us/" target="_blank">
@@ -93,6 +93,13 @@ I'm an Explorer 🙂...
     <img src="https://img.icons8.com/color/48/fff/git.png" alt="git"/>
   </a>
   &nbsp;
+    <a href="https://ultralytics.com/yolov5" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="yolo"/>
+  </a>
+  &nbsp;
+    <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" alt="pytorch" width="40" height="40"/>
+  </a>
   <a href="https://www.shellscript.sh/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/console.png" alt="shell script"/>
   </a>
@@ -102,25 +109,7 @@ I'm an Explorer 🙂...
   </a>
 </p>
 
-## AI Tools I Use
 
-<p align="center">
-  <a href="https://ultralytics.com/yolov5" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="yolo"/>
-  </a>
-  &nbsp;
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="hugging face"/>
-  </a>
-  &nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow"/>
-  </a>
-  &nbsp;
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="pytorch"/>
-  </a>
-</p>
 
 ## My Github Stats
 
