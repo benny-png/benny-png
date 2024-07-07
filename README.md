@@ -9,7 +9,6 @@ I got into tech and science from an anime scene, where a computer engineer, was 
 Looking forward to entering on the Startup Space.
 <br />
 
-
 - 🔭 I’m currently working on integrating Python into robotics
 - 🌱 I’m currently learning Java for app development
 - 👯 I’m looking to collaborate on ML projects
@@ -17,7 +16,7 @@ Looking forward to entering on the Startup Space.
 - 💬 Ask me about technology and scientists
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I commit with spaces... and got rejected by all the Ivies
-  
+
 I'm an Explorer 🙂...
 💡 Currently, I'm always learning, always creating, always improving!
 <br />
@@ -31,3 +30,9 @@ I'm an Explorer 🙂...
 <p align="center">
   <img src="https://github.com/benny-png/benny-png/blob/main/WhatsApp%20Image%202024-06-25%20at%2011.05.07%20PM.jpeg" alt="ME AT UDSM ROBOTICS COMMUNITY">
 </p>
+
+![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benny-png&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benny-png&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=benny-png&theme=radical)
