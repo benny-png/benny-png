@@ -22,10 +22,7 @@ My name is Benjamin 🎉 and I am a Computer Engineer 👨‍💻 by education, 
 
 I got into tech and science from an anime scene, where a computer engineer was coding and repairing a time machine ⏳ in C and doing some robotics 🤖 back in 2018.
 
-<br />
-
 Looking forward to entering the Startup Space.
-<br />
 
 - 🔭 I’m currently working on integrating Python into robotics
 - 🌱 I’m currently learning Java for app development
@@ -37,12 +34,10 @@ Looking forward to entering the Startup Space.
 
 I'm an Explorer 🙂...
 💡 Currently, I'm always learning, always creating, always improving!
-<br />
-<br />
-<br />
 
 ## Languages and Tools
-<p align="left">
+
+<p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -68,32 +63,16 @@ I'm an Explorer 🙂...
   </a>
 </p>
 
-<br />
-
 ## My Github Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=benny-png&theme=radical)
-
-![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benny-png&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benny-png&layout=compact&theme=radical)
-
 <p align="center">
-  ## ME AT UDSM 3D ROBOTICS COMMUNITY (left, with a multimeter 😁)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benny-png&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=benny-png&show_icons=true&theme=radical" alt="Benjamin's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benny-png&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+## ME AT UDSM 3D ROBOTICS COMMUNITY
 
 <p align="center">
   <img src="https://github.com/benny-png/benny-png/blob/main/WhatsApp%20Image%202024-06-25%20at%2011.05.07%20PM.jpeg" alt="ME AT UDSM ROBOTICS COMMUNITY">
 </p>
-
-## YOLO Segmentation
-
-### Output Video
-![OUTPUT GIF VIDEO](https://github.com/benny-png/YOLO_SEGMENTATION/blob/main/output%20(1).gif)
-
-Source: [Man walk cycle happy walking side view](https://www.youtube.com/watch?v=Mol0lrRBy3g&pp=ygUxTWFuIHdhbGsgY3ljbGUgaGFwcHkgd2Fsa2luZyBzaWRlIHZpZXcgcmVmZXJlbmNlIA%3D%3D)
-
-### Input Video
-![INPUT GIF VIDEO](https://github.com/benny-png/YOLO_SEGMENTATION/blob/main/yt1s%20(1).gif)
-
-Source: [Man walk cycle happy walking side view](https://www.youtube.com/watch?v=Mol0lrRBy3g&pp=ygUxTWFuIHdhbGsgY3ljbGUgaGFwcHkgd2Fsa2luZyBzaWRlIHZpZXcgcmVmZXJlbmNlIA%3D%3D)
