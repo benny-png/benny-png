@@ -17,7 +17,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=benny-png&style=plastic" alt="Profile Views"/>
-  <br>
   <img src="https://img.shields.io/github/followers/benny-png?style=social&label=Followers&maxAge=2592000" alt="GitHub Followers"/>
 </div>
 
