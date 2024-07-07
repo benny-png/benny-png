@@ -65,6 +65,10 @@ I'm an Explorer 🙂...
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow"/>
   </a>
   &nbsp;
+   <a href="https://opencv.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="tensorflow"/>
+  </a>
+  &nbsp;
   <a href="https://azure.microsoft.com/en-us/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure"/>
   </a>
