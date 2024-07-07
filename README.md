@@ -13,7 +13,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=benny-png&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/benny-png?label=Followers&style=for-the-badge&logo=github&color=white&labelColor=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/benny-png?label=Followers&style=flat-square&logo=github&color=white&labelColor=blue" alt="Followers"/>
 </div>
 
 # Hi there 👋
