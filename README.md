@@ -41,12 +41,12 @@ I'm an Explorer 🙂...
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
   </a>
   &nbsp;
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/>
-  </a>
-  &nbsp;
   <a href="https://www.cplusplus.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="55" height="55"/>
+  </a>
+  &nbsp;
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/>
   </a>
   &nbsp;
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -66,7 +66,7 @@ I'm an Explorer 🙂...
   </a>
   &nbsp;
    <a href="https://opencv.org/" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="40" height="40"/>
    </a>
   &nbsp;
   <a href="https://azure.microsoft.com/en-us/" target="_blank">
