@@ -2,8 +2,7 @@
 
 My name is Benjamin 🎉 and I am a Computer Engineer 👨‍💻 by education, Software Developer by passion. 
 
-![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benny-png&show_icons=true&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benny-png&layout=compact&theme=radical)
 
 I got into tech and science from an anime scene, where a computer engineer, was coding and repairing a time machine ⏳ in C and doing some robotics 🤖 back in 2018.
 
@@ -35,6 +34,8 @@ I'm an Explorer 🙂...
 </p>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benny-png&layout=compact&theme=radical)
+![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benny-png&show_icons=true&theme=radical)
+
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=benny-png&theme=radical)
