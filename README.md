@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  [![GitHub followers](https://img.shields.io/github/followers/benny-png?style=social&label=Followers&maxAge=2592000)](https://github.com/benny-png?tab=followers)
+  ![GitHub followers](https://img.shields.io/github/followers/benny-png?style=social&label=Followers&maxAge=2592000)](https://github.com/benny-png?tab=followers)
 </div>
 
 # Hi there 👋
