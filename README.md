@@ -58,7 +58,7 @@ I'm an Explorer 🙂...
 
 <p align="center">
   <a href="https://huggingface.co/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/huggingface.svg" alt="hugging face" width="40" height="40"/>
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/>
   </a>
   &nbsp;
    <a href="https://www.tensorflow.org/" target="_blank">
