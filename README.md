@@ -22,7 +22,7 @@
 
 # Hi there 👋
 
-My name is Benjamin 🎉 and I am a Computer Engineer 👨‍💻 by education, Software Developer by passion.
+My name is Benjamin 🎉 and I am a Computer Engineer 👨‍💻 by education, Software Developer by passion 🙂.
 
 I got into tech and science from an anime scene, where a computer engineer was coding and repairing a time machine ⏳ in C and doing some robotics 🤖 back in 2018.
 
