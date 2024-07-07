@@ -76,13 +76,15 @@ I'm an Explorer 🙂...
   <img src="https://github.com/benny-png/benny-png/blob/main/WhatsApp%20Image%202024-06-25%20at%2011.05.07%20PM.jpeg" alt="ME AT UDSM ROBOTICS COMMUNITY">
 </p>
 
-## Connect with Me
+
+## Connect with me
 
 <p align="center">
-  <a href="https://www.instagram.com/_b.e.nn.y_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=255627156369" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-  </a>
+     <a href="https://api.whatsapp.com/send/?phone=255627156369&text&app_absent=0" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
+    <a href="https://www.linkedin.com/in/benjamin-maziku-mashimba-553b06247/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+    <a href="https://x.com/maziku_ben" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"></a>
+    <a href="https://instagram.com/_b.e.nn.y_/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
+    <a href="https://www.facebook.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+    <a href="https://join.slack.com/t/frontendmentor/shared_invite/zt-12n9c8i9i-k0VAj7WkurceDTMppk1hAw" target="_blank"><img src="https://img.icons8.com/color/48/000000/slack-new.png"></a>
+    
 </p>
