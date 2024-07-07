@@ -12,8 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=benny-png&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/benny-png?label=Followers&style=flat-square&logo=github&color=white&labelColor=blue" alt="Followers"/>
+  [![GitHub followers](https://img.shields.io/github/followers/benny-png?style=social&label=Followers&maxAge=2592000)](https://github.com/benny-png?tab=followers)
 </div>
 
 # Hi there 👋
