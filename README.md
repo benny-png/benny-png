@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/benny-png?style=social&label=Followers&maxAge=2592000)](https://github.com/benny-png?tab=followers)
+  <img src="https://img.shields.io/github/followers/benny-png?style=social&label=Followers&maxAge=2592000" alt="GitHub Followers"/>
 </div>
 
 # Hi there 👋
@@ -74,4 +74,15 @@ I'm an Explorer 🙂...
 
 <p align="center">
   <img src="https://github.com/benny-png/benny-png/blob/main/WhatsApp%20Image%202024-06-25%20at%2011.05.07%20PM.jpeg" alt="ME AT UDSM ROBOTICS COMMUNITY">
+</p>
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://www.instagram.com/_b.e.nn.y_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=255627156369" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
 </p>
