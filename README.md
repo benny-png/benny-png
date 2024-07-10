@@ -65,6 +65,14 @@ I'm an Explorer 🙂...
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/>
   </a>
+ &nbsp;
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Microsoft Visual Studio"/>
+  </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  </a>
   &nbsp;
    <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow"/>
