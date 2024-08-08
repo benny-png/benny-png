@@ -30,8 +30,8 @@ Looking forward to entering the Startup Space.
 
 - 🔭 I’m currently working on integrating Python into robotics
 - 🌱 I’m currently learning Java for app development
-- 👯 I’m looking to collaborate on ML projects
-- 🤔 I’m looking for help with PyQt desktop designing
+- 👯 I’m looking to collaborate on ML projects using C and 🐉
+- 🤔 I’m looking for help with firmware & assembly programming
 - 💬 Ask me about technology and scientists
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I commit with spaces... and got rejected by all the Ivies
