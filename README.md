@@ -24,12 +24,12 @@
 
 My name is Benjamin 🎉 and I am a Computer Engineer 👨‍💻 by education, Software Developer by passion 🙂.
 
+I got into tech and science from an anime scene, where a computer engineer was coding and repairing a time machine ⏳ in C and doing some robotics 🤖 back in 2018.
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=benny-png&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)
 
 
-I got into tech and science from an anime scene, where a computer engineer was coding and repairing a time machine ⏳ in C and doing some robotics 🤖 back in 2018.
-
-Looking forward to entering the Startup Space.
+I'm Looking forward to entering the Startup Space.
 
 - 🔭 I’m currently working on integrating Python into robotics
 - 🌱 I’m currently learning Java for app development
