@@ -33,7 +33,7 @@ Looking forward to entering the Startup Space.
 
 
 - 🔭 I’m currently working on integrating Python into robotics
-- 🌱 I’m currently learning Q#, Qiskit, assembly, firmwares,blender & Java.
+- 🌱 I’m currently learning Q#, Qiskit, assembly, firmwares, blender & Java.
 - 👯 I’m looking to collaborate on ML projects using C and 🐉
 - 🤔 I’m looking for help with firmware & assembly programming
 - 💬 Ask me about technology and scientists
