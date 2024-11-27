@@ -39,7 +39,7 @@ Looking forward to entering the Startup Space.
 - 🤔 I’m looking for help with firmware & assembly programming
 - 💬 Ask me about technology and scientists
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I commit with spaces... and got rejected by all the Ivies
+- ⚡ Fun fact: I commit with spaces...
 
 I'm an Explorer 🙂...
 💡 Currently, I'm always learning, always creating, always improving!
