@@ -42,6 +42,7 @@ Looking forward to entering the Startup Space.
 - ⚡ Fun fact: I commit with spaces...
 
 I'm an Explorer 🙂..., I build libraries, fine-tune AI models, watch anime and sci-fi for fun.
+  &nbsp;
 💡 Currently, I'm always learning, always creating, always improving!
 
 ## Languages 
