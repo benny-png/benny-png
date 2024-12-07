@@ -41,7 +41,7 @@ Looking forward to entering the Startup Space.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I commit with spaces...
 
-I'm an Explorer 🙂...
+I'm an Explorer 🙂..., I build libraries, fine-tune AI models, watch anime and sci-fi for fun.
 💡 Currently, I'm always learning, always creating, always improving!
 
 ## Languages 
