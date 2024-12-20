@@ -139,7 +139,8 @@ I'm an Explorer 🙂..., I build libraries, fine-tune AI models, watch anime and
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=benny-png&theme=radical" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=benny-png&show_icons=true&theme=radical" alt="Benjamin's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benny-png&layout=compact&theme=radical&cacheSeconds=0" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benny-png&layout=compact&theme=radical&cacheSeconds=0&hide=html,css" alt="Top Languages"/>
+
 </p>
 
 ## ME AT UDSM 3D ROBOTICS COMMUNITY
