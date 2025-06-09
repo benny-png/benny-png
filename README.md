@@ -144,7 +144,7 @@ I'm an Explorer 🙂..., I build libraries, fine-tune AI models, read books, wat
 
 </p>
 
-## ME AT UDSM 3D ROBOTICS COMMUNITY
+## ME AT UDSM 3D & ROBOTICS LAB
 
 <p align="center">
   <img src="https://github.com/benny-png/benny-png/blob/main/WhatsApp%20Image%202024-06-25%20at%2011.05.07%20PM.jpeg" alt="ME AT UDSM ROBOTICS COMMUNITY">
